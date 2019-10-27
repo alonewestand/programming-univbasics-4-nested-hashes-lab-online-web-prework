@@ -55,6 +55,7 @@ def dennis_ritchies_language
         }
      }
      him_language = programmer_hash.fetch("C")
+     him_language
 end
 
 def adding_matz
